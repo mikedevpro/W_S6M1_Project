@@ -14,9 +14,9 @@ const root = createRoot(domNode)
 
 root.render(
   <>
-    <Counter />
-    {/*<Moods /> */}
-    {/*<Spinner /> */}
+    {/*<Counter /> */}
+    <Moods /> 
+    {/*<Spinner /> */} 
     {/*<Input /> */}
     {/*<Squares /> */}
     {/*<Programmers /> */}
